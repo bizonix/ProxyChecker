@@ -1,3 +1,6 @@
 [submodule "rolling-curl"]
 	path = rolling-curl
 	url = git@github.com:bizonix/rolling-curl.git
+[submodule "beaver"]
+	path = beaver
+	url = git@github.com:bizonix/beaver.git
