@@ -1,0 +1,3 @@
+[submodule "rolling-curl"]
+	path = rolling-curl
+	url = git@github.com:bizonix/rolling-curl.git
